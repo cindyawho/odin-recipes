@@ -16,3 +16,9 @@ ul, li {
 a {
     color: #F3E00C;
 }
+
+img {
+    display: block;
+    margin: auto;
+    height: 40%;
+}
